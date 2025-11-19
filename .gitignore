@@ -1,0 +1,20 @@
+# --- Vivado Project Files to IGNORE ---
+# Log files
+*.log
+*.jou
+
+# Large, temporary cache/output directories
+*.runs/
+*.sim/
+*.cache/
+
+# Project cache/data files
+*.Xil/
+.local/
+
+# Specific file types
+*.xpr.lock
+*.wdb
+*.bit
+*.ltx
+*.bin
